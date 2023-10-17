@@ -1,6 +1,5 @@
 # Brute Force Solution
-# Time Complexity: O(n^2) (nested for loop)
-# Space Complexity: O(1)
+# Runtime: 2175ms & Memory: 14.1MB
 def twoSum(self, nums, target):
         """
         :type nums: List[int]
